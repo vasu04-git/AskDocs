@@ -178,7 +178,7 @@ http://127.0.0.1:5000
 
 <h2>AI Answer</h2>
 
-<img src="screenshots/response.png" width="800">
+[<img src="screenshots/response.png" width="800">](https://github.com/vasu04-git/AskDocs/blob/main/response.png)
 
 ## 📌 Future Improvements
 
