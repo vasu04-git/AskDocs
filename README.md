@@ -170,7 +170,7 @@ http://127.0.0.1:5000
 
 <h2>Home Page</h2>
 
-<img src="screenshots/home.png" width="800">
+<img src="[screenshots/home.png](https://github.com/vasu04-git/AskDocs/blob/main/home.png)" width="800">
 
 <h2>Upload PDF</h2>
 
