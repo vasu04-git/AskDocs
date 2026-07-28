@@ -174,7 +174,7 @@ http://127.0.0.1:5000
 
 <h2>Upload PDF</h2>
 
-<img src="screenshots/upload.png" width="800">
+[<img src="screenshots/upload.png" width="800">](https://github.com/vasu04-git/AskDocs/blob/main/upload.png)
 
 <h2>AI Answer</h2>
 
