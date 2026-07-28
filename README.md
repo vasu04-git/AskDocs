@@ -168,19 +168,17 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-### Home Page
+<h2>Home Page</h2>
 
-_Add screenshot here_
+<img src="screenshots/home.png" width="800">
 
-### Upload Document
+<h2>Upload PDF</h2>
 
-_Add screenshot here_
+<img src="screenshots/upload.png" width="800">
 
-### Chat Interface
+<h2>AI Answer</h2>
 
-_Add screenshot here_
-
----
+<img src="screenshots/response.png" width="800">
 
 ## 📌 Future Improvements
 
