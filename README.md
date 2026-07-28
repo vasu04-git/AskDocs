@@ -169,7 +169,7 @@ http://127.0.0.1:5000
 ## 📸 Screenshots
 
 <h2>Home Page</h2>
-[<img src="screenshots/home.png" width="800">](https://github.com/vasu04-git/AskDocs/blob/main/home.png)
+[[<img src="screenshots/home.png" width="800">](https://github.com/vasu04-git/AskDocs/blob/main/home.png)]
 
 <h2>Upload PDF</h2>
 
